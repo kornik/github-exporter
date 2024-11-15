@@ -8,3 +8,5 @@ This is a simple prometheus exporter for github seats monitoring.
 GITHUB_TOKEN=your_github_token
 GITHUB_ORG=your_github_org
 ```
+
+test
